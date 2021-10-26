@@ -1,0 +1,21 @@
+{
+  "name": "gql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dm.Bagatskyi",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "graphql": "^15.6.1",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "ts-node": "^10.4.0"
+  }
+}
